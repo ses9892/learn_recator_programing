@@ -37,6 +37,14 @@
 
 </details>
 
+## 4. 🔄 콜드 시퀀스를 핫 시퀀스로 변환하기
+<details>
+<summary>상세 내용 보기</summary>
+
+- 🔮 [콜드 시퀀스를 핫 시퀀스로 변환하기](./md/Cold-Hot%20Sequence.md)
+
+</details>
+
 ---
 
 <div align="center">
