@@ -72,6 +72,8 @@
 
 <a href="/example_code/src/main/java/com/reactor/reactor_pracitce/HotSequenceExample.java">HotSequenceExample.java</a>
 
+#### Hot Sequence에 대한 예제 결과
+<img src="./images/Cold-Hot.png" alt="Cold-Hot">
 ---
 
 > 📚 **참고 자료**  

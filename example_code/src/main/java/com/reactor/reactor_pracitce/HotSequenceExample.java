@@ -18,8 +18,8 @@ public class HotSequenceExample {
   public static void main(String[] args) {
     // Hot Sequence
     Flux<String> concertFlux = Flux.fromStream(Stream.of("Singer A", "Singer B", "Singer C", "Singer D", "Singer E"))
-      .delayElements(Duration.ofSeconds(1))
-      .share();
+      .delayElements(Duration.ofSeconds(1))     // 1초마다 데이터를 지연 방출!!
+      .share();                                         // 공유된 타임라인을 가진다.            
 
     concertFlux.subscribe(data -> log.info("Subscriber 1: {}", data));
 
@@ -31,6 +31,7 @@ public class HotSequenceExample {
 
     concertFlux.subscribe(data -> log.info("Subscriber 2: {}", data));
 
+    
     try {
       Thread.sleep(3000);
     } catch (InterruptedException e) {
