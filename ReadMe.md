@@ -23,8 +23,8 @@
 <details>
 <summary>상세 내용 보기</summary>
 
-- 🔮 [리액터(Reactor)란?](./docs/what-is-reactor.md)
-- 🧩 [리액터의 구성 요소 및 용어 정의](./docs/reactor-components.md)
+- 🔮 [리액터(Reactor) 란?](./md/what-is-reactor.md)
+- 🔮 [리액터(Reactor) 용어 정의](./md/reactor용어정의.md)
 
 </details>
 
