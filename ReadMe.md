@@ -2,6 +2,7 @@
 
 # 🌊 Spring WebFlux 학습 정리
 [![Spring Version](https://img.shields.io/badge/Spring-6.0.0-brightgreen.svg)](https://spring.io/)
+[![Spring WebFlux Version](https://img.shields.io/badge/Spring%20WebFlux-6.2.0-brightgreen.svg)](https://docs.spring.io/spring-framework/reference/web/webflux.html)
 [![Reactor Version](https://img.shields.io/badge/Reactor-2023.0.0-blue.svg)](https://projectreactor.io/)
 
 </div>
