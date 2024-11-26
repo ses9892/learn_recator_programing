@@ -12,10 +12,10 @@
 <details>
 <summary>상세 내용 보기</summary>
 
-- 💫 [리액티브 시스템과 리액티브 프로그래밍의 의미](./docs/reactive-programming.md)
-- 🔄 [Blocking I/O 방식과 Non-Blocking I/O 방식 이해하기(1)](./docs/blocking-vs-non-blocking-1.md)
-- ⚡ [Blocking I/O 방식과 Non-Blocking I/O 방식 이해하기(2): Spring MVC vs Spring WebFlux](./docs/blocking-vs-non-blocking-2.md)
-- 📚 [Spring WebFlux 개요](./docs/webflux-overview.md)
+- 💫 [리액티브 시스템과 리액티브 프로그래밍의 의미](./md/리액티브 시스템과 리액티브 프로그래밍의 의미.md)
+- 🔄 [Blocking I/O 방식과 Non-Blocking I/O 방식 이해하기(1)](./md/블로킹,논블로킹%20IO%20이해하기.md)
+- ⚡ [Blocking I/O 방식과 Non-Blocking I/O 방식 이해하기(2): Spring MVC vs Spring WebFlux](./md/블로킹,논블로킹%20IO%20이해하기.md)
+- 📚 [Spring WebFlux 개요](./md/Spring%20WebFlux%20개요.md)
 
 </details>
 
