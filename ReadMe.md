@@ -28,6 +28,14 @@
 
 </details>
 
+## 3. 📊 마블 다이어그램 이해
+<details>
+<summary>상세 내용 보기</summary>
+
+- 🔮 [마블 다이어그램 이해하기](./md/marble-diagram.md)
+
+</details>
+
 ---
 
 <div align="center">
