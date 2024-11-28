@@ -53,6 +53,14 @@
 
 </details>
 
+## 6. 📥 Sinks
+<details>
+<summary>상세 내용 보기</summary>
+
+- 🔮 [Sinks](./md/sinks.md)
+
+</details>
+
 ---
 
 <div align="center">
