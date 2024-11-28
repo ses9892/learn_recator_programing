@@ -1,4 +1,4 @@
-package com.reactor.reactor_pracitce.scheduler;
+package com.reactor.reactor_pracitce.scheduler.paralle;
 
 import com.reactor.reactor_pracitce.utils.Logger;
 import reactor.core.publisher.Flux;
