@@ -103,6 +103,14 @@ Flux.just(1, 2, 3, 4, 5, 6)
 
 ---
 
+#### 예제 소스코드 📖
+[Window](/example_code/src/main/java/com/reactor/reactor_pracitce/operator/sequenceSeperate/Window01.java)
+[Buffer](/example_code/src/main/java/com/reactor/reactor_pracitce/operator/sequenceSeperate/Buffer01.java)
+[BufferTimeout](/example_code/src/main/java/com/reactor/reactor_pracitce/operator/sequenceSeperate/BufferTimeout01.java)
+[GroupBy](/example_code/src/main/java/com/reactor/reactor_pracitce/operator/sequenceSeperate/GroupBy01.java)
+
+---
+
 ## 💫 마무리
 
 시퀀스 분리 연산자들은 데이터 스트림을 효과적으로 분할하고 그룹화하는 데 사용됩니다.
