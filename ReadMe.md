@@ -88,6 +88,8 @@
 - 🔮 [생성형 Operator](./md/Create.md)
 - 🔮 [필터형 Operator](./md/Filter.md)
 - 🔮 [변환형 Operator](./md/Transform.md)
+- 🔮 [sequence 분리](./md/sequenceSeperate.md)
+- 🔮 [멀티캐스팅](./md/multicasting.md)
 
 
 </details>
